@@ -10,6 +10,21 @@ class Travel{
   final List<String> imageUrl;
 
 
+  // we made a change here
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
 //model constructor
   Travel(this.name,  this.duration, this.description,this.location, this.rating, this.distance, this.imageUrl,this.cost );
 
